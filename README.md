@@ -15,7 +15,7 @@ Windows:
 You can clone the repository through CMD (Command Prompt) just by typing:
 
 ```sh
-git clone https://github.com/joao099/flex-blog.git
+git clone https:https://github.com/danielsiqueira099/flexblog
 ```
 
 or download the zip from the green button at the beginning of the repository
@@ -34,7 +34,7 @@ or download the zip from the green button at the beginning of the repository
 
 ## 🚀 Contribution
 
-1. Make the _fork_ of the project (<https://github.com/joao099/flex-blog/fork>)
+1. Make the _fork_ of the project (<https://github.com/danielsiqueira099/flexblog/fork>)
 2. Create a _branch_ for your modification (`git checkout -b my-new-resource`)
 3. Do _commit_ (`git commit -am 'Adding a new resource ...'`)
 4. _Push_ (`git push origin my-new-feature`)
